@@ -9,5 +9,6 @@ Skills: JavaScript, TypeScript, Vue, Nuxt, VueX, Pinia, Vuetify, React, Next, Re
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/kazbekaskarov/) or kazbek.askarov.official@gmail.com
 
+<img width="1280" height="720" alt="github-header-banner" src="https://github.com/user-attachments/assets/db027fca-7d7c-4705-a135-5089e38a3152" />
 
 
