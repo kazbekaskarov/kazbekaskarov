@@ -7,6 +7,6 @@ Skills: AI-Native Systems, RAG, LLM Applications, LangChain, TypeScript, JavaScr
 
 - 🔭 I’m currently working at Kaspi.kz, a leading fintech super app with 12M+ monthly active users.
 - 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/kazbekaskarov/) or kazbek.askarov.official@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kazbekaskarov/) or kazbek.askarov.job@gmail.com
 
 
