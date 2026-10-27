@@ -20,3 +20,7 @@ Frontend Engineer at [Snoonu](https://snoonu.com) · Open-source contributor · 
 
 *  [chakra-ui/ark](https://github.com/chakra-ui/ark) — Headless, framework-agnostic UI components
 *  [ant-design/ant-design](https://github.com/ant-design/ant-design) — Enterprise-class UI design language and React component library
+
+### ✍️ Where I write
+
+*  [moshimoshi.dev](https://moshimoshi.dev/): what I'm figuring out about the web, one post at a time
