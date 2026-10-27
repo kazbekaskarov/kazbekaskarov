@@ -23,4 +23,4 @@ Frontend Engineer at [Snoonu](https://snoonu.com) · Open-source contributor · 
 
 ### ✍️ Where I write
 
-*  [moshimoshi.dev](https://moshimoshi.dev/): what I'm figuring out about the web, one post at a time
+*  [moshimoshi.dev](https://moshimoshi.dev/) — what I'm figuring out about the web, one post at a time
